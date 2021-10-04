@@ -1,7 +1,8 @@
 Using our JS library
 ====================
 
-> https://cdn.jsdelivr.net/gh/imgsrc-space/imgsrc.space-js-library/index.js
+> &lt;script src="https://cdn.jsdelivr.net/gh/imgsrc-space/imgsrc.space-js-library/index.js" &gt; &lt;/script&gt;
+
 
 Copy and paste the above script tag to your html page, and that's it.
 
