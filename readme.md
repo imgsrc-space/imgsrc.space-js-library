@@ -1,7 +1,7 @@
 Using our JS library
 ====================
 
-> &lt;script src="https://cdn.jsdelivr.net/gh/imgsrc-space/imgsrc.space-js-library@8a53a04bb2dd1eb12c10f836c294b96627916641/index.js" &gt; &lt;/script&gt;
+> &lt;script src="https://cdn.jsdelivr.net/gh/imgsrc-space/imgsrc.space-js-library/main.js" &gt; &lt;/script&gt;
 
 
 Copy and paste the above script tag at the END of your html page, and that's it.
